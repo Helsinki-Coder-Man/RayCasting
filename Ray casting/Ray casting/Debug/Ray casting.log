@@ -1,0 +1,10 @@
+﻿  Ray casting.cpp
+C:\Users\noaho\source\repos\Ray casting\Ray casting\Ray casting.cpp(16,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\noaho\source\repos\Ray casting\Ray casting\Ray casting.cpp(68,49): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\noaho\source\repos\Ray casting\Ray casting\Ray casting.cpp(72,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\noaho\source\repos\Ray casting\Ray casting\Ray casting.cpp(79,50): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\noaho\source\repos\Ray casting\Ray casting\Ray casting.cpp(89,51): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\noaho\source\repos\Ray casting\Ray casting\Ray casting.cpp(123,48): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\noaho\source\repos\Ray casting\Ray casting\Ray casting.cpp(131,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\noaho\source\repos\Ray casting\Ray casting\Ray casting.cpp(153,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Ray casting.vcxproj -> C:\Users\noaho\source\repos\Ray casting\Debug\Ray casting.exe
