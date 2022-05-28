@@ -10,3 +10,6 @@ W - Move forward.
 S - Move backwards.
 A - Rotate camera to the left.
 D - Rotate camera to the right.
+
+Note: 
+This is simply my way of introducing myself to Graphics. Parts of the source code were found from around Youtube.
