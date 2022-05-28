@@ -2,7 +2,8 @@
 
 Version 0.1
 
-Pseudo-3D engine using ray casting.
+Pseudo-3D engine made in c++.
+The 3D effect is achieved by using Ray casting.
 
 Controls:
 W - Move forward.
