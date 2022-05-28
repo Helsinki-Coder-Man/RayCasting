@@ -12,6 +12,8 @@ A - Rotate camera to the left.
 D - Rotate camera to the right.
 
 Note: 
+
+
 -This is simply my way of introducing myself to Graphics. Parts of the source code were found from around Youtube.
 
 -Make sure your Command Prompt is 120x40 or else this will not work.
